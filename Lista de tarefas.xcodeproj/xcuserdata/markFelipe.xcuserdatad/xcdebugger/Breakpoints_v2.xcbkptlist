@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lista de tarefas/FirstViewController.swift"
+            timestampString = "471927503.64335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lista_de_tarefas.FirstViewController.__deallocating_deinit"
+                  moduleName = "Lista de tarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markFelipe/Documents/workspaces/xcode/IOS_18app_Udemmy/Capitulo1/Lista%20de%20tarefas/Lista%20de%20tarefas/FirstViewController.swift"
+                  timestampString = "471927503.738768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lista_de_tarefas.FirstViewController.init (Lista_de_tarefas.FirstViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Lista_de_tarefas.FirstViewController"
+                  moduleName = "Lista de tarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markFelipe/Documents/workspaces/xcode/IOS_18app_Udemmy/Capitulo1/Lista%20de%20tarefas/Lista%20de%20tarefas/FirstViewController.swift"
+                  timestampString = "471927503.745069"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lista_de_tarefas.FirstViewController.init (Lista_de_tarefas.FirstViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lista_de_tarefas.FirstViewController&gt;"
+                  moduleName = "Lista de tarefas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/markFelipe/Documents/workspaces/xcode/IOS_18app_Udemmy/Capitulo1/Lista%20de%20tarefas/Lista%20de%20tarefas/FirstViewController.swift"
+                  timestampString = "471927503.745361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
